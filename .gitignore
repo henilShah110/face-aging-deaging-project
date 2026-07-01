@@ -1,0 +1,39 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Gradio
+.gradio/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Generated files
+# ==========================
+outputs/
+while_training/
+
+# ==========================
+# Dataset
+# ==========================
+data/raw/
+data/processed/
+
+# ==========================
+# Trained checkpoints
+# ==========================
+checkpoints/*.pth
+
+main.py
