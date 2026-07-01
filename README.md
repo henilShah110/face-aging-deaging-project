@@ -369,7 +369,7 @@ The trained CycleGAN weights are not included in this repository because they ex
 
 Download the pretrained model from:
 
-**Google Drive:** *(Add your Google Drive link here)*
+**Google Drive:** *https://drive.google.com/file/d/1-PFM1cqNBVfFniZiViRm4Xpkzu_QE9ip/view?usp=sharing*
 
 Place the downloaded file inside:
 
